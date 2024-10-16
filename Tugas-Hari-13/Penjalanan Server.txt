@@ -1,0 +1,2 @@
+<!--Untuk Menjalankan server menggunakan command line "php -$ 127.0.0.1:8000-t public" -->
+Command line di atas digunakan/dilakukan Ketika jika menggunakan perintah php artisan serve tidak berhasil
